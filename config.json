@@ -1,0 +1,16 @@
+{
+  "printer_name": "",
+  "listen_port": 9876,
+  "label_width_mm": 38,
+  "label_height_mm": 28,
+  "printer_dpi": 300,
+  "skip_items": [
+    "straw",
+    "cone",
+    "cup",
+    "spoon"
+  ],
+  "brand_name": "WeDRINK",
+  "show_price": true,
+  "margin_px": 15
+}

@@ -1,0 +1,15 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime logs and state
+sticker_log.txt
+processed_bills.json
+
+# Debug previews and images
+previews/*
+!previews/.gitkeep
+*.png
+*.jpg
+*.jpeg
